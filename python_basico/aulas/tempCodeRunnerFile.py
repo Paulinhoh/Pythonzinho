@@ -1,1 +1,0 @@
-alien_0:dict = {'cor': 'verde', 'pontos': 5}
